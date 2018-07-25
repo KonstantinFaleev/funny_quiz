@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<questions>
+  <question minutes = "1" >
+    <text>Сколько байт в килобайте?</text>
+    <variants right = "true"> 1024 </variants>
+    <variants> 2024 </variants>
+    <variants> 100 </variants>
+    <variants> 15001 </variants>
+  </question>
+  <question minutes = "1" >
+    <text>В каком году Гагарин полетел в космос?</text>
+    <variants right = "true"> 1961 </variants>
+    <variants> 2014 </variants>
+    <variants> 1861 </variants>
+    <variants> 1982 </variants>
+  </question>
+  <question minutes = "1">
+    <text>Сколько дней в высокосном году?</text>
+    <variants right = "true"> 366 </variants>
+    <variants> 365 </variants>
+    <variants> 364 </variants>
+    <variants> 367 </variants>
+  </question>
+</questions>
