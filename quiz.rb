@@ -1,4 +1,3 @@
-#Anikram 2018 - ver.3
 require_relative 'lib/question.rb'
 
 puts "Добро пожаловать в Веселую Викторину!\n\n"
