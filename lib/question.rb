@@ -75,6 +75,7 @@ class Question
       puts "Верно!"
       1
     else
+      puts "Не совсем правильно!"
       puts "Правильный ответ: #{@right_answer}"
       0
     end
